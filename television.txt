@@ -2,3 +2,5 @@ Television Brands
 LG
 Samsung
 Panasonic
+Sony
+Toshiba
